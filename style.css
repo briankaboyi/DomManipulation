@@ -24,10 +24,10 @@ form{
 }
 input{
     height: 40px;
-    width: 70%;
+    width: 90%;
 }
 button{
-    width: 40px;
+    width: 10%;
     height: 40px;
     justify-self: left;
 }
